@@ -10,6 +10,8 @@ Step3: Register a new Employee with all details
 
 step4: Run the project and login with Employee ID
 
+--------------------------------------------------------------------------------------------------------------------------
+
 Migration Table Structure
 
 Schema::create('users', function (Blueprint $table) {
